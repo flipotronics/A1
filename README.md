@@ -20,7 +20,7 @@ Cron based:
 
 dependencies:
 
-- Raspberry Stretch with PREEMPT kernel
+- Raspbian Stretch with PREEMPT kernel
 - Alsa
 - Jack
 - Redis
