@@ -10,10 +10,12 @@ This repo contains the Flipotronics documentation
 - Python project to handle GPIO for midi, encoders, push buttons and 7 segment display
 
 High priority:
-- C++ library for Flipotronics sound routing and modulation
+- C++ demon for Flipotronics sound routing and modulation
 
 Cron based:
 - GOLANG project OTA over the air updates managing Docker containers
+
+projects communicate using Redis or Jack.
 
 
 dependencies:
