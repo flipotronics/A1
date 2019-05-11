@@ -3,9 +3,7 @@ Flipotronics A1 hybrid digital/analog synthesizer based on Raspberry Model 3B+.
 
 This repo contains the Flipotronics documentation
 
-There will be:
-
- Container:
+ Containerized projects:
 - nodeJS REACT project to handle OSC, remote UI and the TFT display
 - nodeJS project to manage online Sound Library and community functions
 - Python project to manage VST plugins and Linux synthesizers
