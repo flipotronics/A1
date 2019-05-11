@@ -1,5 +1,6 @@
 # A1
-Flipotronics A1 hybrid digital/analog synthesizer based on Raspberry Model 3B+.
+Flipotronics A1 hybrid modular digital/analog synthesizer based on Raspberry Model 3B+
+and the Eurorack standard.
 
 This repo contains the Flipotronics documentation
 
