@@ -20,18 +20,18 @@ Cron based:
 
 dependencies:
 
-Raspberry Stretch with PREEMPT kernel
-Alsa
-Jack
-Redis
-Docker
-pm2
-RPi.GPIO
+- Raspberry Stretch with PREEMPT kernel
+- Alsa
+- Jack
+- Redis
+- Docker
+- pm2
+- RPi.GPIO
 
-FluidSynth
-Hydrogen
-Dexed
-Guitarix
-Synth1
-Bristol
-setBfree
+- FluidSynth
+- Hydrogen
+- Dexed
+- Guitarix
+- Synth1
+- Bristol
+- setBfree
