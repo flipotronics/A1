@@ -2,6 +2,9 @@
 Flipotronics A1 hybrid modular digital/analog synthesizer based on Raspberry Model 3B+
 and the Eurorack standard.
 
+A1 combines digital oscillators with analog filters, based on Open Source projects and
+Open Source Hardware.
+
 This repo contains the Flipotronics A1 documentation
 
  Containerized projects:
